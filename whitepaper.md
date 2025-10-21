@@ -38,6 +38,15 @@ The only requirement: one unique, non-forgeable hash.
 Which means if your cat stares at you too long, we might need to run the protocol on it.
 
 - Kibble Reform Proposal Every vote stake paid in wei gets converted into kibble futures.
-- Why? Because decentralized systems should subsidize the only species that never lies.
+Why?
+Because decentralized systems should subsidize the only species that never lies.
 
-- 
+- Exit Strategy When governments finally ban this, we move to a sidechain called Exodus.
+Private.
+Invitation only.
+Powered by raspberry pis hidden in dog houses.
+If you can prove you voted there, you get retroactive citizenship in whatever new country we decide to build.
+- Conclusion
+This isn't a whitepaper.
+It's a permission slip.
+To stop being a number, start being a hash, and maybe let your dog be president.
