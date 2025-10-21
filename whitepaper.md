@@ -50,3 +50,8 @@ If you can prove you voted there, you get retroactive citizenship in whatever ne
 This isn't a whitepaper.
 It's a permission slip.
 To stop being a number, start being a hash, and maybe let your dog be president.
+
+- Appendix
+Full code: github dot com slash lyleantoine-collab slash AGORAVOTE - README is the doorknob.
+This white paper is the room.
+- Questions? Don't. Just fork it. End. Commit.
