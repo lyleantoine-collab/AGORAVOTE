@@ -12,3 +12,20 @@ In code: we hash your private key to an NFT token, then the token signs the vote
 If someone steals your NFT, you burn it, re-hash, done.
 No court. No DMV.
 Just math and a raspberry pi that won't stop wagging its tail.
+
+- Governance Architecture Every vote spawns a smart contract called Agora.
+You stake three wei to speak, ten to veto.
+No human moderator-just code that checks: is your ID real?
+Is your stake clean?
+If yes, your voice counts.
+If no, the network burns your stake and laughs in assembly.
+We call it the Lulz Clause.
+- Attack Vectors Sybil?
+We require unique hashes-cloned noses don't hash the same.
+Quantum?
+Lattice crypto built in.
+Government?
+They'll try to fork it-let 'em.
+Every fork just proves we won.
+
+- 
