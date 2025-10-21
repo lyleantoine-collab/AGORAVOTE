@@ -28,4 +28,16 @@ Government?
 They'll try to fork it-let 'em.
 Every fork just proves we won.
 
+- Personhood Extension We extend DID to non-humans.
+Dog nose?
+Fine.
+AI voiceprint?
+Fine.
+Your Roomba if it can pass a Turing test and a CAPTCHA.
+The only requirement: one unique, non-forgeable hash.
+Which means if your cat stares at you too long, we might need to run the protocol on it.
+
+- Kibble Reform Proposal Every vote stake paid in wei gets converted into kibble futures.
+- Why? Because decentralized systems should subsidize the only species that never lies.
+
 - 
