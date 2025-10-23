@@ -1,10 +1,10 @@
-Nova-Agora
-On-chain ID that can't be faked-today by zero-knowledge proofs, tomorrow by atomic entanglement. 
-Runs on Raspberry Pi five, 
-Starlink optional, 
-LoRa mesh built in. 
-AI watches for bribes, flags anomalies, keeps the tally clean. 
+Nova-Agora: 
+On-Chain Identity for Bulletproof Voting Open-source, phone-first. 
+Runs on Raspberry Pi 5 (Starlink optional-if the grid dies). 
+LoRa mesh built-in: vote from the woods. 
+AI flags anomalies-like one guy voting twelve times-keeps the tally clean. 
+No bribes, no bosses, no Beijing we own your soul databases. 
+Just physics, code, and a thumb drive you pull when it's done. 
 No central authority. 
-Just physics and code. 
-See docs/whitepaper.md for the manifesto. 
-Inspired by Reggie Middleton-Veritaseum made real.
+Inspired by Reggie Middleton's low-trust blockchain patents-we just stapled on ballots. 
+Read the whitepaper for how not to screw this up.
