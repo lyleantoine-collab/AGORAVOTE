@@ -55,3 +55,8 @@ To stop being a number, start being a hash, and maybe let your dog be president.
 Full code: github dot com slash lyleantoine-collab slash AGORAVOTE - README is the doorknob.
 This white paper is the room.
 - Questions? Don't. Just fork it. End. Commit.
+Nova Agora's longevity demands real decentralization-no biometrics, no shortcuts.
+We'll pin all data via IPFS on community nodes,
+lock identities behind zero-knowledge proofs,
+and let users recover via social proofs or YubiKeys if their wallet burns.
+That's future-proof.
