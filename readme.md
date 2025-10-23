@@ -1,4 +1,4 @@
-Agora Vote
+Nova-Agora
 On-chain ID that can't be faked-today by zero-knowledge proofs, tomorrow by atomic entanglement. 
 Runs on Raspberry Pi five, 
 Starlink optional, 
